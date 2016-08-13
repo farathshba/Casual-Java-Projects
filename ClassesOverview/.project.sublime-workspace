@@ -1,0 +1,189 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/farath.shba/Desktop/access_log.2016-07-july_sla_g/access_log.2016-07-july_sla_g",
+		"/C/Users/farath.shba/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/PA0CZUA1/labelDiff_20160703_2036_REPORT_R1 9 0 2_PROD_BL_20160505_R1 9 0 12_PROD_   .txt",
+		"/C/Users/farath.shba/OneDrive - Accenture/Projects/Ministry of Health Holdings/Tasks/2 - Apache Web Logs Ciphering/Quick Dirty Job/access_log.2016-08-04_grep_nodes/access_log.2016-08-04_grep_nodes",
+		"/C/Users/farath.shba/Desktop/access_log.2016-07-july_sla/access_log.2016-07-july_sla",
+		"/C/Users/farath.shba/Desktop/Book1.csv",
+		"/C/Users/farath.shba/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/PA0CZUA1/labelDiff_20160629_151658_REPORT_R1 9 1_SITA_62_BL_20160727_R1 9 1_SITA_   .txt",
+		"/C/Users/farath.shba/OneDrive - Accenture/Projects/Ministry of Health Holdings/Tasks/29. July Go Live/SITB/9647 - LifeRay/Migration Inst.txt",
+		"/C/Users/farath.shba/OneDrive - Accenture/Projects/Ministry of Health Holdings/Tasks/2 - Apache Web Logs Ciphering/July 20 - 27 Task/C_access_log.2016-07-27_cat.log",
+		"/C/Users/farath.shba/Desktop/theme_font.xml",
+		"/C/Users/farath.shba/OneDrive - Accenture/Projects/Ministry of Health Holdings/Tickets/INC700041518973/INC700041518973.txt",
+		"/C/Users/farath.shba/OneDrive - Accenture/Projects/Ministry of Health Holdings/Tasks/29. July Go Live/MR/9612 - SFTP Batchjob/Steps.txt.txt",
+		"/C/Users/farath.shba/Desktop/Login Details/Login Details",
+		"/C/Users/farath.shba/Downloads/hosts",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/farath.shba/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"common",
+			"S2534084A",
+			"NNJA_CPRS_LIYAN0293L",
+			"NNJA_CPRS_CHOONPEIBOO",
+			"NNJA",
+			"ILTC",
+			"HPB",
+			"AIC",
+			"NNJA_CPRS_YOKEKWANCHUA",
+			"Enrolm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": ".project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
